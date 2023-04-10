@@ -85,18 +85,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GrandPa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "730258773fa7ce0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "frolic.md",
                 "mode": "source",
                 "source": false
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,17 +244,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "730258773fa7ce0a",
+  "active": "924f7ce0d3278e41",
   "lastOpenFiles": [
-    "traverexc.md",
-    "generate return 2 libc payload.md",
-    "servMon.md",
-    "frolic.md",
-    "Bastion.md",
-    "Blunder.md",
     "GrandPa.md",
+    "generate return 2 libc payload.md",
+    "frolic.md",
+    "FriendZone.md",
+    "cronos.md",
+    "cheatsheet .md",
+    "brainfuck.md",
     "Bounty.md",
-    "template/OSCP-exam-report-template_whoisflynn_v3.2.md",
-    "Haircut.md"
+    "Blunder.md",
+    "Blocky.md"
   ]
 }
